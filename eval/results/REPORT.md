@@ -1,6 +1,6 @@
 # Final evaluation on the test split (210 pages)
 
-Test pages: `labeling loop/data/test` (30 per type: article, collection, documentation, forum, listing, product, service). References (golden markdown, snippets, structure counts, QAs) are model-generated from Gemini block labels, not independent human gold. No training URL or snapshot overlap, but 207 of 210 pages share a domain with the training pages, so this measures new pages on mostly familiar domains.
+Test pages: `labeling/data/test` (30 per type: article, collection, documentation, forum, listing, product, service). References (golden markdown, snippets, structure counts, QAs) are model-generated from Gemini block labels, not independent human gold. No training URL or snapshot overlap, but 207 of 210 pages share a domain with the training pages, so this measures new pages on mostly familiar domains.
 
 Systems: the three frozen block classifiers (`models/frozen/`, kept blocks rendered to markdown), trafilatura (markdown, tables, links) and Pulpie (0.0.2, orange-small) on a Modal L4 GPU. Outputs: `eval/outputs/`. Errors and empty outputs count as empty.
 
