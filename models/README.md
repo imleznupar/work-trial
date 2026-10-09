@@ -24,22 +24,3 @@ preprocessing step (HTML → blocks), one label set and one feature table.
 
 `frozen/{gbm,logreg,seq}/` each holds the model file and a `meta.json` with features, threshold, CV metrics,
 training-data hashes, code hashes, package versions and the model file's sha256. Files are read-only.
-
-## Usage
-
-```bash
-.venv/bin/python models/build_dataset.py      # rebuild the block table
-.venv/bin/python models/train.py all          # retrain + refreeze (gbm | logreg | seq | all)
-.venv/bin/python models/classify.py gbm page.html https://example.com/page   # print kept text
-```
-
-```python
-from classify import load, classify
-clf = load("gbm")
-result = classify(html, url, clf)   # result["blocks"] (prob, keep/drop), result["text"]
-```
-
-## Caveats
-
-- WCXB block labels are a text-alignment proxy; the 140 pages carry LLM labels, not human ones.
-- Layout-table pages (whole page inside one `<table>`) become a single block.
