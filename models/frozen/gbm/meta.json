@@ -1,0 +1,207 @@
+{
+ "model": "gbm",
+ "frozen_at": "2026-10-09 14:44",
+ "threshold": 0.55,
+ "threshold_rule": "maximizes pooled char-weighted F1 on all out-of-fold predictions (5 domain-grouped folds)",
+ "features": [
+  "n_chars",
+  "log_chars",
+  "n_words",
+  "avg_word_len",
+  "punct_ratio",
+  "stopword_ratio",
+  "digit_ratio",
+  "upper_ratio",
+  "ends_sentence",
+  "n_sentences",
+  "has_currency",
+  "link_density",
+  "link_count",
+  "tag_code",
+  "kind_code",
+  "heading_level",
+  "is_table",
+  "is_list_item",
+  "is_heading",
+  "is_code",
+  "is_whole",
+  "dom_depth",
+  "rel_pos",
+  "rel_char_pos",
+  "dup_count",
+  "similar_siblings",
+  "n_siblings",
+  "is_hidden",
+  "phrase_hit",
+  "page_log_blocks",
+  "anc_nav",
+  "anc_header",
+  "anc_footer",
+  "anc_aside",
+  "anc_main",
+  "anc_article",
+  "anc_form",
+  "anc_button",
+  "anc_li",
+  "anc_table",
+  "cls_nav",
+  "cls_footer",
+  "cls_header",
+  "cls_sidebar",
+  "cls_related",
+  "cls_social",
+  "cls_comment",
+  "cls_cookie",
+  "cls_promo",
+  "cls_signup",
+  "cls_modal",
+  "cls_cart",
+  "cls_content",
+  "cls_product",
+  "cls_noise_hits",
+  "traf_score",
+  "in_traf"
+ ],
+ "categorical": [
+  "tag_code",
+  "kind_code"
+ ],
+ "tags": [
+  "p",
+  "li",
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "h5",
+  "h6",
+  "dd",
+  "dt",
+  "figcaption",
+  "blockquote",
+  "table",
+  "pre",
+  "div",
+  "section",
+  "article",
+  "main",
+  "header",
+  "footer",
+  "aside",
+  "nav",
+  "form",
+  "td",
+  "th",
+  "span",
+  "ul",
+  "button",
+  "label",
+  "other"
+ ],
+ "training_data": {
+  "sources": {
+   "labeling": 30617,
+   "wcxb": 325369
+  },
+  "pages": {
+   "labeling": 140,
+   "wcxb": 1471
+  },
+  "wcxb_git_commit": "c039d5ee9f5a3a984a0e167e63aacd04e76e78a9",
+  "labeling_sha256": {
+   "pages.jsonl": "e8c31b8cab49ee90de096f8bd11944d100f0b6af2717b62966d79538898e0f82",
+   "blocks.jsonl": "283451ae932b5927183eb597bcbce5d8c5856a2b6d7d5b54f0d726611fd341cf"
+  },
+  "dataset_sha256": "57a9988f20e850cd9b0a9209a8685900d1f24e2e7678f4eca8f3ed974d24d2d2",
+  "label_rules": "wcxb: block text vs ground-truth main_content (models/labels.py); labeling: LLM labels content=1 boilerplate=0, uncertain excluded"
+ },
+ "final_fit": {
+  "params": {
+   "max_iter": 300,
+   "learning_rate": 0.1,
+   "max_leaf_nodes": 31,
+   "min_samples_leaf": 40,
+   "l2_regularization": 0.0,
+   "early_stopping": false,
+   "class_weight": "balanced",
+   "random_state": 0,
+   "categorical_features": [
+    "tag_code",
+    "kind_code"
+   ]
+  },
+  "train_s": 9.838627815246582
+ },
+ "cv": {
+  "pooled": {
+   "block_P": 0.7998535323631151,
+   "block_R": 0.8447651647302769,
+   "block_F1": 0.8216961198616981,
+   "char_P": 0.8740627390878062,
+   "char_R": 0.9412831738371897,
+   "char_F1": 0.9064284038910778,
+   "n": 355986
+  },
+  "fold_mean": {
+   "block_P": 0.7991834542654288,
+   "block_R": 0.8449753866208527,
+   "block_F1": 0.8211710831628775,
+   "char_P": 0.8733744057055894,
+   "char_R": 0.9412674966447394,
+   "char_F1": 0.90584668994775,
+   "n": 71197.2
+  },
+  "fold_sd": {
+   "block_P": 0.037140728018106334,
+   "block_R": 0.043142583472901196,
+   "block_F1": 0.03646512894491286,
+   "char_P": 0.025317493690844378,
+   "char_R": 0.0071126722672072195,
+   "char_F1": 0.012632186416316235,
+   "n": 7969.348731232685
+  },
+  "per_fold_thresholds": [
+   0.54,
+   0.55,
+   0.53,
+   0.44,
+   0.55
+  ],
+  "by_source": {
+   "labeling": {
+    "block_P": 0.8644900317827218,
+    "block_R": 0.795110284347595,
+    "block_F1": 0.8283499446290145,
+    "char_P": 0.9582627900632281,
+    "char_R": 0.8643398334486798,
+    "char_F1": 0.9088812774419956,
+    "n": 30617
+   },
+   "wcxb": {
+    "block_P": 0.794164766514372,
+    "block_R": 0.8498498770897018,
+    "block_F1": 0.821064254916395,
+    "char_P": 0.8685924152358373,
+    "char_R": 0.9473276125758873,
+    "char_F1": 0.9062531019259203,
+    "n": 325369
+   }
+  }
+ },
+ "code_sha256": {
+  "blocking.py": "ad713643b3f6284c8e3203ff80e2c7463fd0f30dfb820dde73cd063d183b49a3",
+  "labels.py": "154244a5fa8a55ee61074cfa24bc3d187546767260e85e62dad471a3058335cc",
+  "features.py": "c1933b8751115b82f2a4e43d957e9412d9a5eb427e9c2963738a73f44ed0b0c6",
+  "train.py": "179459ff338b3ccb06a2014889ded2e4d1afca3e40ceae17c7726d523ee08f86"
+ },
+ "versions": {
+  "python": "3.12.5",
+  "sklearn": "1.9.1",
+  "torch": "2.14.1",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6"
+ },
+ "files_sha256": {
+  "model.joblib": "f7644855a3c778caf9204517cf4d52bfa7d6897cd96734d74a6a48b16016d269"
+ }
+}

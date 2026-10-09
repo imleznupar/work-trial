@@ -1,0 +1,7 @@
+355,989 blocks, 355,986 labeled, 1611 pages, 1342 domains
+seq fold 0: 63s
+seq fold 1: 37s
+seq fold 2: 54s
+seq fold 3: 40s
+seq fold 4: 56s
+[seq] OOF char F1 0.9067 (folds 0.9058 ± 0.0170) block F1 0.8172 | frozen threshold 0.69

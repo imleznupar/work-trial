@@ -1,0 +1,157 @@
+{
+ "built_at": "2026-10-09 14:42",
+ "wcxb_git_commit": "c039d5ee9f5a3a984a0e167e63aacd04e76e78a9",
+ "labeling_sha256": {
+  "pages.jsonl": "e8c31b8cab49ee90de096f8bd11944d100f0b6af2717b62966d79538898e0f82",
+  "blocks.jsonl": "283451ae932b5927183eb597bcbce5d8c5856a2b6d7d5b54f0d726611fd341cf"
+ },
+ "code_sha256": {
+  "blocking.py": "ad713643b3f6284c8e3203ff80e2c7463fd0f30dfb820dde73cd063d183b49a3",
+  "labels.py": "154244a5fa8a55ee61074cfa24bc3d187546767260e85e62dad471a3058335cc",
+  "features.py": "c1933b8751115b82f2a4e43d957e9412d9a5eb427e9c2963738a73f44ed0b0c6",
+  "build_dataset.py": "8b9a91886eeaa929e43085a2a73465bbde6847f80156c6286d005a496931410d"
+ },
+ "pages": {
+  "labeling": 140,
+  "wcxb": 1497
+ },
+ "pages_used": {
+  "labeling": 140,
+  "wcxb": 1471
+ },
+ "skipped": [
+  {
+   "source": "wcxb",
+   "skipped": "empty main_content",
+   "n": 21
+  },
+  {
+   "source": "wcxb",
+   "skipped": "no blocks",
+   "n": 5
+  }
+ ],
+ "domains": {
+  "labeling": 108,
+  "wcxb": 1234
+ },
+ "domain_overlap_between_sources": 0,
+ "blocks": {
+  "labeling": 30620,
+  "wcxb": 325369
+ },
+ "labeled_blocks": {
+  "labeling": 30617,
+  "wcxb": 325369
+ },
+ "excluded_unlabeled_blocks": 3,
+ "content_share_blocks": {
+  "labeling": 0.3687,
+  "wcxb": 0.3388
+ },
+ "content_share_chars": {
+  "labeling": 0.7159,
+  "wcxb": 0.6398
+ },
+ "by_type": [
+  {
+   "source": "labeling",
+   "page_type": "article",
+   "pages": 20,
+   "blocks": 3912,
+   "content": 0.2403
+  },
+  {
+   "source": "labeling",
+   "page_type": "collection",
+   "pages": 20,
+   "blocks": 4948,
+   "content": 0.1884
+  },
+  {
+   "source": "labeling",
+   "page_type": "documentation",
+   "pages": 20,
+   "blocks": 5946,
+   "content": 0.4322
+  },
+  {
+   "source": "labeling",
+   "page_type": "forum",
+   "pages": 20,
+   "blocks": 1678,
+   "content": 0.6019
+  },
+  {
+   "source": "labeling",
+   "page_type": "listing",
+   "pages": 20,
+   "blocks": 5014,
+   "content": 0.5726
+  },
+  {
+   "source": "labeling",
+   "page_type": "product",
+   "pages": 20,
+   "blocks": 4397,
+   "content": 0.2463
+  },
+  {
+   "source": "labeling",
+   "page_type": "service",
+   "pages": 20,
+   "blocks": 4722,
+   "content": 0.3988
+  },
+  {
+   "source": "wcxb",
+   "page_type": "article",
+   "pages": 791,
+   "blocks": 155206,
+   "content": 0.3958
+  },
+  {
+   "source": "wcxb",
+   "page_type": "collection",
+   "pages": 113,
+   "blocks": 41986,
+   "content": 0.1995
+  },
+  {
+   "source": "wcxb",
+   "page_type": "documentation",
+   "pages": 91,
+   "blocks": 26098,
+   "content": 0.4285
+  },
+  {
+   "source": "wcxb",
+   "page_type": "forum",
+   "pages": 107,
+   "blocks": 19153,
+   "content": 0.2134
+  },
+  {
+   "source": "wcxb",
+   "page_type": "listing",
+   "pages": 94,
+   "blocks": 19969,
+   "content": 0.4492
+  },
+  {
+   "source": "wcxb",
+   "page_type": "product",
+   "pages": 113,
+   "blocks": 27739,
+   "content": 0.1573
+  },
+  {
+   "source": "wcxb",
+   "page_type": "service",
+   "pages": 162,
+   "blocks": 35218,
+   "content": 0.336
+  }
+ ],
+ "seconds": 43.4
+}
