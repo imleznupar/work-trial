@@ -1,6 +1,6 @@
 # eval
 
-Final evaluation on the 210-page test split (`labeling loop/data/test`, 30 pages per type) of five systems: the three
+Final evaluation on the 210-page test split (`labeling/data/test`, 30 pages per type) of five systems: the three
 frozen block classifiers (`gbm`, `logreg`, `seq`), trafilatura, and Pulpie on a Modal L4 GPU. The report is in
 `results/REPORT.md`.
 
