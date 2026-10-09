@@ -32,10 +32,3 @@ cd eval && ../.venv/bin/python run_cpu.py && ../.venv/bin/python score.py       
 ```
 
 Pulpie on GPU needs Modal (`.venv/bin/modal token new`); model-based QA needs `GEMINI_API_KEY`.
-
-## Notes
-
-- Labels are proxies: WCXB block labels come from text alignment, and the other pages from Gemini, not human
-  annotators.
-- The test references come from the same labeling pipeline as part of the training data, which favors the three
-  classifiers over trafilatura and Pulpie; see the caveats in `eval/results/REPORT.md`.
