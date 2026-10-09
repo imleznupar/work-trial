@@ -1,0 +1,29 @@
+{
+ "mode": "check",
+ "pages": 3,
+ "gpu": "NVIDIA L4",
+ "versions": {
+  "pulpie": "0.0.2",
+  "torch": "2.14.1",
+  "transformers": "4.57.6",
+  "html2text": "2025.4.15"
+ },
+ "hf_revision": "15ead3350a66e9f15745b7e6619370e3437a5fb0",
+ "containers": 1,
+ "container_startup_s": 4.5262017250061035,
+ "model_load_s": 2.516098653,
+ "warmup_page_ms": 4997.023937,
+ "per_page_ms": {
+  "mean": 128.05725699999945,
+  "median": 92.77043499999849,
+  "p95": 92.77043499999849,
+  "max": 243.49651100000003
+ },
+ "throughput_pages_per_s": 7.809006872605465,
+ "end_to_end_wall_s": 23.525482892990112,
+ "billed_gpu_s_estimate": 28.89640784263611,
+ "usd_per_s": 0.000222,
+ "errors": 0,
+ "note": "billed estimate = container uptime from @enter to last call + scaledown window; container_startup_s (scheduling + image boot before @enter) is billed too and added in billed_gpu_usd_estimate",
+ "billed_gpu_usd_estimate": 0.007419819324016571
+}

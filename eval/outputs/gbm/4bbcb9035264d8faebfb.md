@@ -1,0 +1,19 @@
+# DevOps
+
+Improve collaboration across IT teams, accelerate deploy cycles, and deliver better experiences with this modern software development methodology.
+
+Set your DevOps team up for measurable success by establishing clear service-level objectives (SLOs) and putting instrumentation in place.
+
+Define and hone your DevOps processes by rallying around team dashboards, orchestrating responses, and measuring the impact of every change.
+
+#### Optimize
+
+Review your progress, analyze application dependencies and infrastructure resources, and find ways to continually improve your customer experience.
+
+## Measure what matters for DevOps
+
+See how New Relic can help you deploy more frequently, ensure more stability, and innovate faster.
+
+## Discover how companies optimized DevOps with New Relic
+
+## Measure what matters for DevOps with New Relic.

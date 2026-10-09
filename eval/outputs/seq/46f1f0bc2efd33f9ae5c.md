@@ -1,0 +1,55 @@
+## What are we really doing when we sit in a room with our patients and exchange some words?
+
+is an assistant professor in the Department of Psychosocial and Psychoanalytic Studies at the University of Essex, UK, and a clinical psychoanalyst in East London.
+
+is an assistant professor in the Department of Psychosocial and Psychoanalytic Studies at the University of Essex, UK, and a clinical psychoanalyst in East London.
+
+It took me five years to certify as a clinical psychoanalyst. During that time, I attended weekly seminars and case discussion groups, treated a variety of patients, participated in supervision sessions, and underwent intensive personal therapy.
+
+But the closer I got to the conclusion of my training, the more unsure I felt about what, exactly, my newfound profession entailed. Unlike therapies that follow treatment guidelines for specifically diagnosed mental disorders, psychoanalysis prides itself on working with each patient in his or her uniqueness. It’s also notoriously ‘light touch’: psychoanalysts tend to listen closely but make interpretations sparingly, in the belief that meaningful change must come from patients’ own desires, rather than obedience to their therapist’s views.
+
+In practice, this can feel quite opaque and so, although I’d ticked off all the boxes needed for my accreditation, fundamental questions remained: what are we really doing when we sit in a room with our patients and exchange some words? How do I know if I’m helping?
+
+One morning, deep in these doubts, I walked into the building where I practise to meet Ricardo, my first patient of the day. A surge of anxiety came over me: I suddenly realised I’d forgotten my office keys and there wasn’t enough time to get home and back. I sent an apologetic message to Ricardo cancelling our session, relieved I had at least arrived early enough that he wasn’t there to see the panic on my face.
+
+Then, a few weeks later, also before Ricardo’s session, I misplaced my keys again.
+
+Ricardo was, in many ways, a ‘model’ patient: he never cancelled without plenty of advance notice, filled our sessions with memories and associations, leapt on my every interpretation, discovered significant insights and made major breakthroughs in areas of his life where he’d previously seemed stuck.
+
+‘Before I started seeing you,’ he said in a pivotal session, ‘I read that David Lynch never did therapy because he was afraid it would stifle his creativity, and that worried me. More recently, I saw a film about an artist who was in analysis for 20 years, and felt it was essential to his creativity. When we first started, I needed this therapy to help me get through a crisis. But now I don’t feel I need therapy in that way; it feels like it’s about understanding myself better.’
+
+My gentle prodding was turning into unhelpful haranguing – making me yet another critical authority figure in his life
+
+I’d recently moved to an office with a couch – perhaps the ultimate symbol of traditional psychotherapeutic authority. After this session, Ricardo became the first patient I invited to use my new couch. Meeting him there confirmed to me the upwards trajectory of my career.
+
+Meanwhile, another patient, Tom, regularly failed to turn up to my consulting room. Just as he was about to make his way over, he’d realise he’d misplaced his wallet, or his keys. It seemed clear to me that this symptom, which also cropped up in his work and social life, functioned as an unconscious rebellion against his feeling of being straitjacketed by social, professional and familial obligations. Every time he screwed up, Tom would engage in harsh self-recriminations, crystallised around his idea that he was a ‘loser’. Consciously, he regularly fantasised about winning a large sum of money that would buy him out of his unwanted duties. He seemed uninterested in exploring whether behind this fantasy of winning might lie any unconscious appeal in losing. Over time, my gentle prodding was turning into unhelpful haranguing – making me yet another critical authority figure in his life.
+
+By losing my keys, then, it seemed I had mirrored something of Tom’s ‘loser’ behaviour – not with Tom but with Ricardo, the very patient who made me feel like I was winning. Alongside these ‘bungled actions’, as Sigmund Freud called them, I was also experiencing recurring dreams: I’d find myself meeting a patient somewhere other than my consulting room – a coffee shop, on the street – and worry that I’d somehow messed up the treatment. In one of these, Tom stood at the door of my messy bedroom. On my nightstand lay a bottle of PrEP, the medication used by many gay men to protect against HIV transmission. Tom pointed at it as if to communicate he had discovered a dirty secret about me.
+
+No matter how many hoops I jumped through, some things were fundamentally beyond my control
+
+I was also going through a family crisis. My mother, a continent away and recently diagnosed with cancer, faced a long and uncertain course of treatment; her partner, once her primary source of support, was experiencing rapidly worsening dementia. While she attended medical appointments, he became agitated and sometimes went missing. One evening, he drove to his old home in another city where he thought he still lived and, unbeknown to us, spent the night shivering outside the building in the cold. In that case, the problem wasn’t keys that were lost but those that were found – the car keys my mother had hidden to keep him safe.
+
+I spoke about all this to my own psychoanalyst in one of our sessions. ‘Wouldn’t it be nice,’ he responded simply, ‘if there was a key to the unconscious?’
+
+It was a seemingly light, almost throwaway line but it touched on something fundamental. I laughed hysterically. All this time, I’d been projecting an image of authority – the brilliant psychoanalyst, with his fancy consulting room and clever ideas – underneath which lay deep anxiety. In both my personal and professional life, I was searching for a ‘key’ that could unlock all my difficulties. But no matter how many hoops I jumped through, some things were fundamentally beyond my control.
+
+After that, I stopped losing my keys.
+
+Psychoanalysts listen for things ordinarily hidden from awareness that emerge in the margins of our everyday lives: dreams, mistakes, and slips of the tongue. The idea is that, by taking the ‘unconscious’ seriously, we might discover parts of ourselves seeking expression. For example, railing against a colleague she didn’t like, a patient once said to me: ‘I don’t want to be a girl.’ She’d meant to say: ‘I don’t want to be that girl,’ and, upon my pointing this out, she quickly corrected her ‘mistake’. But when I invited her to consider what she’d actually said – rather than what she’d consciously meant to say – she spoke of her long history of struggling to fit into feminine ideals. This cast her problem with her colleague in a different light, enabling her to consider different solutions.
+
+The therapist must be able to sit with the fact that the patient has lost this key – or isn’t ready to find it yet
+
+But the tricky thing about this theory of the unconscious is that the therapist is not exempt from it. Listening to the unconscious – your own, or a patient’s – means being comfortable with things that are unknown, that we don’t have control over, and that may call into question who we think we are. Therapists may be tempted to adopt the impossible role of solving every problem, but it’s the patient who holds the ‘key’. The therapist must be able to sit with the fact that, for whatever reason, the patient has lost this key – or isn’t ready to find it yet.
+
+For months, I’d been haunted by guilt over the distance separating me from my mother – a desperation for control and certainty in my family situation mirroring my anxieties as a therapist. I was spending hours every day attempting to help from afar, in ways that felt both overwhelming and futile. In another session with my psychoanalyst, I spoke about how other people always seemed to have good reasons for the boundaries separating them from their parents – kids, demanding jobs, pressing obligations – while, for some unknown reason, I struggled to justify any limits. ‘It feels like I have to invent the limit myself,’ I said, half in despair, half in quiet revelation. ‘Precisely!’ my analyst responded.
+
+After that session, something subtle but profound shifted. I became gentler with myself and with my patients, less fixated on outcomes or mastery, and more open to hearing and drawing attention to the unconscious – even when I didn’t know what it was trying to say.
+
+One afternoon, Tom mentioned a punishment dream he’d had, in which he had to ‘pay the ultimate price’. He associated this scene with a memory from childhood, playing in his father’s office and enjoying a chocolate bar from the vending machine. Without any clear outcome in mind, I found myself asking, ‘Who paid for the chocolate bar?’ Tom paused briefly before replying, ‘My father did – he always paid in the end.’ There was clearly something significant here, about debt and pleasure or perhaps the burdens Tom carried from his father – but I resisted the urge to rush in with an interpretation and instead drew the session to a close. The therapeutic work had already, quietly taken place. Tom left the session visibly lighter, with new ideas about himself the following week.
+
+From the outside, these moments probably seem inconsequential: no coping mechanisms offered, no false beliefs corrected, not even much overt comfort provided – just a therapist musing out loud without having much grasp of what’s going on himself. Yet, somehow, such moments often contain exactly what’s needed.
+
+I’ve come to appreciate that not every revelation from the unconscious needs a comprehensive explanation. There are the words that need to be said, but there are also those that can’t be – at least not yet. Perhaps the real job is to be sensitive to that difference.
+
+Psychoanalysis doesn’t provide you with the master keys to unlock life’s mysteries; it’s more likely to help you laugh at yourself when the keys inevitably go missing again, allowing these small failures and disruptions to help you appreciate your desires, rather than frustrate them. The work remains challenging, and I am often wracked with self-doubt. But to accept something is missing is also to be open to something new in its place. Being a loser isn’t always such a bad thing after all.Case studies have been anonymised to protect patient privacy.
